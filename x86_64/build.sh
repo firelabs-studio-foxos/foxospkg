@@ -1,0 +1,1 @@
+repo-add ./foxospkg.db.tar.gz ./*.pkg.tar.zst
